@@ -4,13 +4,12 @@ ls: Lista los archivos y directorios en el directorio actual.
 cd: Cambia el directorio actual.
 mkdir: Crea un nuevo directorio.
 rm: Elimina archivos o directorios.
-cp: Copia archivos y directorios.
 mv: Mueve o renombra archivos y directorios.
 cat: Muestra el contenido de un archivo.
-grep: Busca patrones en archivos.
-chmod: Cambia los permisos de un archivo o directorio.
 sudo: Ejecuta un comando con privilegios de administrador.
 man: Muestra el manual de un comando.
+nano: Edita el contenido de los archivos
+
 Comandos de Git:
 
 git init: Inicializa un nuevo repositorio Git en el directorio actual.
