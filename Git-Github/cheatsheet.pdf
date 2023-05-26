@@ -1,0 +1,25 @@
+Comandos de consola:
+
+ls: Lista los archivos y directorios en el directorio actual.
+cd: Cambia el directorio actual.
+mkdir: Crea un nuevo directorio.
+rm: Elimina archivos o directorios.
+mv: Mueve o renombra archivos y directorios.
+cat: Muestra el contenido de un archivo.
+sudo: Ejecuta un comando con privilegios de administrador.
+man: Muestra el manual de un comando.
+nano: Edita el contenido de los archivos
+
+Comandos de Git:
+
+git init: Inicializa un nuevo repositorio Git en el directorio actual.
+git clone: Clona un repositorio Git existente en un nuevo directorio.
+git add: Agrega archivos al área de preparación.
+git commit: Crea un nuevo commit con los cambios en el área de preparación.
+git push: Sube los cambios locales a un repositorio remoto.
+git pull: Obtiene los cambios del repositorio remoto y los fusiona con el repositorio local.
+git branch: Muestra las ramas disponibles y crea nuevas ramas.
+git checkout: Cambia de rama o restaura archivos.
+git merge: Fusiona cambios de una rama a otra.
+git log: Muestra el historial de commits.
+git status: Muestra el estado actual del repositorio.
