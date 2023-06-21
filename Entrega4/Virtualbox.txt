@@ -1,0 +1,10 @@
+1 ● ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?.
+ -Por varias razones, una de las primera seria la dependencia del sistema operativo algunos lenguajes estan estrechamente relacionados con ciertos aspectos y caracteristicas del sistema operativo, tambien se requieren compiladores y entornos de desarrollo para utilizar un lenguaje y no todos los sistemas cuentan con estas herramientas, las bibliotecas y frameworks estan limitados para ciertos sistemas operativo en especifico
+    
+
+2 ● ¿Qué tipo de máquina virtual es virtualBox?.
+ - 
+
+3 ● Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
