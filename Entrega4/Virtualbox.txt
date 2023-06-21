@@ -4,7 +4,8 @@ sistemas operativos y en otros no?.
     
 
 2 ● ¿Qué tipo de máquina virtual es virtualBox?.
- - 
+ -  VirtualBox es una máquina virtual de software de virtualización que permite ejecutar sistemas operativos huéspedes en un sistema operativo anfitrión. Es ampliamente utilizado debido a su naturaleza de código abierto y su compatibilidad con múltiples sistemas operativos huéspedes.
 
 3 ● Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
 demás? ¿por qué?
+-En VirtualBox, cada máquina virtual se ejecuta de forma independiente y aislada del sistema operativo host y de otras máquinas virtuales. Esto significa que si una máquina virtual se rompe o presenta algún problema, no debería afectar a las demás máquinas virtuales que se encuentren en ejecución.
